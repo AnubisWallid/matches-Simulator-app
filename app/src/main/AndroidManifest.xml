@@ -10,15 +10,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Simulator"
-        android:dataExtractionRules="@xml/data_extraction_rules"
         tools:targetApi="s"
         tools:ignore="DataExtractionRules">
         <activity
-            android:name=".MainActivity"
+            android:name=".DetailActivity"
             android:exported="true" />
 
         <activity
-            android:name=".DetailActivity"
+            android:name=".MainActivity"
             android:theme="@style/Theme.Simulator.NoActionBar"
             android:exported="true">
 
