@@ -1,7 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simulator</string>
     <string name="ButtonDescription" translatable="true">Match simulation button.</string>
     <string name="DescriptionImageHomeTeam">Home Team Image</string>
     <string name="DescriptionImageAwayTeam">Away Team Image</string>
-    <string name="tv_Versus" translatable="false">x</string>
 </resources>

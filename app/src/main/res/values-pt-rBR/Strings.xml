@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simulador</string>
+    <string name="ButtonDescription" translatable="true">Botão simulação de partidas.</string>
+    <string name="DescriptionImageHomeTeam">Imagem do Time Mandante</string>
+    <string name="DescriptionImageAwayTeam">Imagem do Time Fora de Casa</string>
+
 </resources>
