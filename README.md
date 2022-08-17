@@ -9,4 +9,4 @@ representam as implementações realizadas durante os seguintes conteúdos/víde
 1. Desenvolvimento Mobile Nativo para Android
    * [release/desenvolvimento-mobile-nativo-para-android](github.com/AnubisWallid/matches-simulador-app/tree/release/desenvolvimento-mobile-nativo)
 2. Componentes, Layouts e UI/UX em Apps Android
-   * [release/Componentes, Layouts e UI/UX em Apps Android](1d0e92438b6107d1382d92582276e4992fc5e94f)
+   * [release/Componentes, Layouts e UI/UX em Apps Android](https://github.com/AnubisWallid/matches-simulator-app/tree/componentes-layouts-ui-ux-pps_android)
